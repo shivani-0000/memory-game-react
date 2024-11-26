@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/memory-game-react/static/css/main.99fdc175.css",
-    "main.js": "/memory-game-react/static/js/main.d7752dcf.js",
+    "main.js": "/memory-game-react/static/js/main.d5a72f0d.js",
+    "static/media/scroll.png": "/memory-game-react/static/media/scroll.2723debe42fba9ad2900.png",
+    "static/media/ring.jpg": "/memory-game-react/static/media/ring.09b0a9daf850fd048af6.jpg",
+    "static/media/helmet.png": "/memory-game-react/static/media/helmet.4cfd4dad20dfe2f9dafd.png",
+    "static/media/cover.png": "/memory-game-react/static/media/cover.34c4f89c7a37cfece3d9.png",
+    "static/media/sword.jpg": "/memory-game-react/static/media/sword.17a13753bc8f22dceb63.jpg",
+    "static/media/shield.jpg": "/memory-game-react/static/media/shield.b1dde2c7d6c40a799f05.jpg",
     "index.html": "/memory-game-react/index.html",
     "main.99fdc175.css.map": "/memory-game-react/static/css/main.99fdc175.css.map",
-    "main.d7752dcf.js.map": "/memory-game-react/static/js/main.d7752dcf.js.map"
+    "main.d5a72f0d.js.map": "/memory-game-react/static/js/main.d5a72f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.99fdc175.css",
-    "static/js/main.d7752dcf.js"
+    "static/js/main.d5a72f0d.js"
   ]
 }
